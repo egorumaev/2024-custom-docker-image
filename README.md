@@ -7,7 +7,7 @@
 
 ## **Примененные технологии**
 
-* Linux (Astra Linux, Ubuntu), Bash, Vim, Docker, Dockerfile, Docker Hub
+* Linux (Astra Linux, Ubuntu), Bash, Vim, Docker, Docker Image, Dockerfile, Docker Hub
 
 ---
 
